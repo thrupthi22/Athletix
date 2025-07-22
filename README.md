@@ -1,4 +1,4 @@
-# Don't forget to start our repository
+# Don't forget to star our repository
 
 # 🏋️ Athletix
 
@@ -54,7 +54,7 @@
 
 ### ✅ Prerequisites
 
-- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+
 - [Git](https://git-scm.com/downloads)
 - [Firebase CLI](https://firebase.google.com/docs/cli) – `npm install -g firebase-tools`
 - A physical Android device (recommended)
@@ -82,22 +82,6 @@ flutter run
 
 > 📱 **Tip**: It's recommended to use a physical Android device for better performance during development.
 
----
-
-### 🔥 Firebase Setup
-
-1. Go to the [Firebase Console](https://console.firebase.google.com)
-2. Create a new Firebase project
-3. Register your **Android** and/or **iOS** app
-4. Download the `google-services.json` file
-5. Place the file in:  
-   `Athletix/android/app/`
-6. Enable the following Firebase services:
-   - ✅ **Authentication** (Email/Password)
-   - ✅ **Firestore Database**
-   - ✅ **Firebase Cloud Messaging (FCM)**
-
----
 
 ### 🧱 Tech Stack
 
